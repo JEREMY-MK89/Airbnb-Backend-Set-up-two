@@ -1,68 +1,94 @@
 {
-    "details": [
-      {
-        "id": 1,
-        "Location": "Africa",
-        "image_url": "https://img.freepik.com/premium-photo/large-luxury-bungalows-with-swimming-pool_295714-1020.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "interior": "https://img.freepik.com/free-photo/closed-window-beautiful-picture-outside-nature-view-resort-resting_155003-30017.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "description": "Beach House 1",
-        "date_uploaded": "2023-12-01",
-        "price": "$101 per night"
-      },
-      {
-        "id": 2,
-        "Location": "Asia",
-        "image_url": "https://img.freepik.com/free-photo/light-garden-luxury-pool-nature_1203-4908.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "interior": "https://img.freepik.com/free-photo/light-garden-luxury-pool-nature_1203-4908.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "description": "Beach House 2",
-        "date_uploaded": "2022-11-11",
-        "price": "$202 per night"
-      },
-      {
-        "id": 3,
-        "Location": "Europe",
-        "image_url": "https://img.freepik.com/free-photo/shirakawa-go-village-winter-japan_335224-180.jpg?size=626&ext=jpg&uid=R130870017&semt=sph",
-        "interior": "https://img.freepik.com/free-photo/interior-log-cabin-accommodation-lake-bloke-nova-vas-slovenia_181624-27607.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "description": "Cottage",
-        "date_uploaded": "2021-10-01",
-        "price": "$303 per night"
-      },
-      {
-        "id": 4,
-        "Location": "South America",
-        "image_url": "https://img.freepik.com/free-photo/modern-tall-glass-buildings-downtown_181624-47596.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "interior": "https://img.freepik.com/free-photo/spacious-room-with-wooden-table_1203-1489.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "description": "Urban Apartments",
-        "date_uploaded": "2020-09-01",
-        "price": "$404 per night"
-      },
-      {
-        "id": 5,
-        "Location": "Australia",
-        "image_url": "https://t4.ftcdn.net/jpg/06/50/21/09/240_F_650210945_jdpS3Qw5mkfKk43Aj2lfadM8dvmdQKPz.jpg",
-        "interior": "https://t4.ftcdn.net/jpg/06/50/21/09/240_F_650210945_jdpS3Qw5mkfKk43Aj2lfadM8dvmdQKPz.jpg",
-        "description": "Cottages Two",
-        "date_uploaded": "2019-13-01",
-        "price": "$505 per night"
-      },
-      {
-        "id": 6,
-        "Location": "North America",
-        "image_url": "https://img.freepik.com/premium-photo/view-beautiful-green-garden-with-grass-trees-pink-flowers-house-background_532488-778.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "interior": "https://img.freepik.com/free-photo/vintage-dinner-table-vintage-house_1150-11079.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "description": "Garden Homes",
-        "date_uploaded": "2019-13-01",
-        "price": "$202 per night"
-      },
-      {
-        "id": 7,
-        "Location": "North America",
-        "image_url": "https://img.freepik.com/premium-photo/small-wooden-bungalow-jungle-housing-asia-travel-tourism_326821-3259.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "interior": "https://img.freepik.com/free-photo/vacation-luxury-resort-with-swimming-pool-hammock-umbrellas-ai-generative_123827-24106.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
-        "description": "Jungle Retreat",
-        "date_uploaded": "2019-13-01",
-        "price": "$202 per night"
-      }
-    ]
-  }
-  
+  "details": [
+    {
+      "id": 1,
+      "Location": "Africa",
+      "image_url": "https://img.freepik.com/premium-photo/large-luxury-bungalows-with-swimming-pool_295714-1020.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "interior": "https://img.freepik.com/free-photo/closed-window-beautiful-picture-outside-nature-view-resort-resting_155003-30017.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "description": "Beach House 1",
+      "date_uploaded": "2023-12-01",
+      "price": "$101 per night"
+    },
+    {
+      "id": 2,
+      "Location": "Asia",
+      "image_url": "https://img.freepik.com/free-photo/light-garden-luxury-pool-nature_1203-4908.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "interior": "https://img.freepik.com/free-photo/light-garden-luxury-pool-nature_1203-4908.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "description": "Beach House 2",
+      "date_uploaded": "2022-11-11",
+      "price": "$202 per night"
+    },
+    {
+      "id": 3,
+      "Location": "Europe",
+      "image_url": "https://img.freepik.com/free-photo/shirakawa-go-village-winter-japan_335224-180.jpg?size=626&ext=jpg&uid=R130870017&semt=sph",
+      "interior": "https://img.freepik.com/free-photo/interior-log-cabin-accommodation-lake-bloke-nova-vas-slovenia_181624-27607.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "description": "Cottage",
+      "date_uploaded": "2021-10-01",
+      "price": "$303 per night"
+    },
+    {
+      "id": 4,
+      "Location": "South America",
+      "image_url": "https://img.freepik.com/free-photo/modern-tall-glass-buildings-downtown_181624-47596.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "interior": "https://img.freepik.com/free-photo/spacious-room-with-wooden-table_1203-1489.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "description": "Urban Apartments",
+      "date_uploaded": "2020-09-01",
+      "price": "$404 per night"
+    },
+    {
+      "id": 5,
+      "Location": "Australia",
+      "image_url": "https://t4.ftcdn.net/jpg/06/50/21/09/240_F_650210945_jdpS3Qw5mkfKk43Aj2lfadM8dvmdQKPz.jpg",
+      "interior": "https://t4.ftcdn.net/jpg/06/50/21/09/240_F_650210945_jdpS3Qw5mkfKk43Aj2lfadM8dvmdQKPz.jpg",
+      "description": "Cottages Two",
+      "date_uploaded": "2019-13-01",
+      "price": "$505 per night"
+    },
+    {
+      "id": 6,
+      "Location": "North America",
+      "image_url": "https://img.freepik.com/premium-photo/view-beautiful-green-garden-with-grass-trees-pink-flowers-house-background_532488-778.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "interior": "https://img.freepik.com/free-photo/vintage-dinner-table-vintage-house_1150-11079.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "description": "Garden Homes",
+      "date_uploaded": "2019-13-01",
+      "price": "$202 per night"
+    },
+    {
+      "id": 7,
+      "Location": "North America",
+      "image_url": "https://img.freepik.com/premium-photo/small-wooden-bungalow-jungle-housing-asia-travel-tourism_326821-3259.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "interior": "https://img.freepik.com/free-photo/vacation-luxury-resort-with-swimming-pool-hammock-umbrellas-ai-generative_123827-24106.jpg?size=626&ext=jpg&uid=R130870017&semt=ais",
+      "description": "Jungle Retreat",
+      "date_uploaded": "2019-13-01",
+      "price": "$202 per night"
+    },
+    {
+      "id": 8,
+      "Location": "Africa",
+      "image_url": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?w=1060&t=st=1702655062~exp=1702655662~hmac=9de9e52406e872e533cf14989c8c159f23ed58cb9600939e63e4acdf824c8269",
+      "interior": "https://img.freepik.com/free-photo/3d-rendering-modern-dining-room-living-room-with-luxury-decor_105762-1932.jpg?w=1380&t=st=1702655451~exp=1702656051~hmac=0349db020a55ddcbf43cea79d3adbb900579d80539f867ebbc193a25b77608ca",
+      "description": "Urban Apartments",
+      "date_uploaded": "2023-20-07",
+      "price": "$350 per night"
+    },
+    {
+      "id": 9,
+      "Location": "Africa",
+      "image_url": "https://img.freepik.com/free-photo/colonial-style-house-night-scene_1150-17925.jpg?w=900&t=st=1702655289~exp=1702655889~hmac=bb9c08d744c0aebec956ee7254326fbfa5abd778d7ef97eb8f457209d22da257 ",
+      "interior": "https://img.freepik.com/free-photo/long-corridor-showcase_1127-3441.jpg?w=900&t=st=1702655327~exp=1702655927~hmac=efb428afeda8c56eb904a9137657b7a5fd52412fafa4f690a2a0086afede75ff",
+      "description": "Urban Apartments",
+      "date_uploaded": "2023-10-10",
+      "price": "$420 per night"
+    },
+    {
+      "id": 10,
+      "Location": "Africa",
+      "image_url": "https://img.freepik.com/free-photo/luxury-water-swimming-resort-hotel_1203-4648.jpg?w=900&t=st=1702655628~exp=1702656228~hmac=d55cff99a62a5b97da4563c0e0fc235914d94b4715ffa6714ef5d92f426fbd4c",
+      "interior": "https://img.freepik.com/free-photo/bangkok-thailand-august-12-2016-beautiful-luxury-living-room_1203-2867.jpg?w=900&t=st=1702655502~exp=1702656102~hmac=30304a6c1ed5b7c387b05251f4dd6b17bde6966f0b999b58a365bd9fc2961d08",
+      "description": "Urban Apartments",
+      "date_uploaded": "2023-04-10",
+      "price": "$320 per night"
+    }
+  ]
+}
